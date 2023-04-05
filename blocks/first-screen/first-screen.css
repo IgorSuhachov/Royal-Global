@@ -1,0 +1,6 @@
+.first-screen {
+	background-image: url(../../images/bg.png);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}

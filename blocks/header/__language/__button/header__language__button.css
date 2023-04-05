@@ -1,0 +1,13 @@
+.header__language__button {
+	border: 1px solid #DBDBDB;
+	background-color: transparent;
+	border-radius: 20px;
+	opacity: 0.5;
+	color: #DBDBDB;
+	font-family: 'Montserrat';
+	font-weight: 300;
+	line-height: 28.8px;
+	font-size: 16px;
+	padding: 0 20px;
+	cursor: pointer;
+}

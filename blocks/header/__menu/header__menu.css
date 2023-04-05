@@ -1,0 +1,7 @@
+.header__menu {
+	border: 1px solid #dbdbdb;
+	border-style: solid none;
+	padding: 22px 0;
+	display: flex;
+	justify-content: center;
+}

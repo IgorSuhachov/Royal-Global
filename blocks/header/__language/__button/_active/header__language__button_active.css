@@ -1,0 +1,6 @@
+.header__language__button_active {
+	border: 1px solid #e7ab38;
+	background-color: #e7ab38;
+	opacity: 1;
+	color: #050706;
+}
