@@ -1,0 +1,7 @@
+.branches__map__search {
+	display: inline-flex;
+	border-radius: 10px;
+	border: 1px solid #fff;
+	padding: 16px 0 16px 23px;
+	margin-bottom: 40px;
+}

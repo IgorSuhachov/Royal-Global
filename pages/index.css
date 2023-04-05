@@ -28,3 +28,10 @@
 @import url(../blocks/numbers/__item/numbers__item.css);
 @import url(../blocks/numbers/__item/__name/numbers__item__name.css);
 @import url(../blocks/numbers/__item/__number/numbers__item__number.css);
+
+@import url(../blocks/branches/branches.css);
+@import url(../blocks/branches/__heading/branches__heading.css);
+@import url(../blocks/branches/__map/branches__map.css);
+@import url(../blocks/branches/__map/__heading/branches__map__heading.css);
+@import url(../blocks/branches/__map/__search/branches__map__search.css);
+@import url(../blocks/branches/__map/__search/_input/branches__map__search_input.css);
