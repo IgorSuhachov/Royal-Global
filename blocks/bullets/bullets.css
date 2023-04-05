@@ -1,0 +1,7 @@
+.bullets {
+	display: flex;
+	justify-content: space-between;
+	gap: 40px;
+	margin: 0 150px;
+	margin-bottom: 50px;
+}
