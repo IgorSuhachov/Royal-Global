@@ -1,0 +1,9 @@
+.numbers {
+	display: flex;
+	flex-direction: row;
+	gap: 210px;
+	justify-content: center;
+	border: 1px solid #DBDBDB;
+	border-style: solid none;
+	padding: 40px 0;
+}

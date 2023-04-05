@@ -1,0 +1,9 @@
+.numbers__item__number {
+	color: gold;
+	font-family: 'Raleway';
+	font-weight: 700;
+	font-size: 100px;
+	line-height: 140px;
+	margin: 0;
+	padding: 0;
+}

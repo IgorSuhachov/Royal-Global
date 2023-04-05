@@ -23,3 +23,8 @@
 @import url(../blocks/about/__info/about__info.css);
 @import url(../blocks/about/__info/__heading/about__info__heading.css);
 @import url(../blocks/about/__info/__paragraph/about__info__paragraph.css);
+
+@import url(../blocks/numbers/numbers.css);
+@import url(../blocks/numbers/__item/numbers__item.css);
+@import url(../blocks/numbers/__item/__name/numbers__item__name.css);
+@import url(../blocks/numbers/__item/__number/numbers__item__number.css);
