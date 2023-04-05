@@ -1,0 +1,15 @@
+.about__info__paragraph {
+	font-family: 'Montserrat';
+	font-weight: 500;
+	font-size: 20px;
+	color: #fff;
+	margin: 0;
+	margin-bottom: 20px;
+	padding: 0;
+	max-width: 640px;
+}
+
+.about__info__paragraph:last-child {
+	max-width: 568px;
+	margin-bottom: 0;
+}

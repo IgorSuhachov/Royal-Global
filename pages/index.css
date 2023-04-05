@@ -18,3 +18,8 @@
 @import url(../blocks/bullets/bullets.css);
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__text/card__text.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__info/about__info.css);
+@import url(../blocks/about/__info/__heading/about__info__heading.css);
+@import url(../blocks/about/__info/__paragraph/about__info__paragraph.css);
