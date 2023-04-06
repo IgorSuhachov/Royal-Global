@@ -29,9 +29,22 @@
 @import url(../blocks/numbers/__item/__name/numbers__item__name.css);
 @import url(../blocks/numbers/__item/__number/numbers__item__number.css);
 
+@import url(../blocks/second-screen/second-screen.css);
+
 @import url(../blocks/branches/branches.css);
 @import url(../blocks/branches/__heading/branches__heading.css);
 @import url(../blocks/branches/__map/branches__map.css);
 @import url(../blocks/branches/__map/__heading/branches__map__heading.css);
 @import url(../blocks/branches/__map/__search/branches__map__search.css);
 @import url(../blocks/branches/__map/__search/_input/branches__map__search_input.css);
+
+@import url(../blocks/partnership/partnership.css);
+@import url(../blocks/partnership/__text/partnership__text.css);
+@import url(../blocks/partnership/__button/partnership__button.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu/__list/footer__menu__list.css);
+@import url(../blocks/footer/__menu/__item/footer__menu__item.css);
+@import url(../blocks/footer/__soical/footer__social.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
