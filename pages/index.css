@@ -1,6 +1,13 @@
+/*NORMALIZE*/
 @import url(../vendor/normalize.css);
+
+/*BODY*/
 @import url(../blocks/body/body.css);
+
+/*FIRST-SCREEN*/
 @import url(../blocks/first-screen/first-screen.css);
+
+/*HEADER*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__inner/header__inner.css);
 @import url(../blocks/header/__language/header__language.css);
@@ -11,26 +18,32 @@
 @import url(../blocks/header/__menu/__list/header__menu__list.css);
 @import url(../blocks/header/__menu/__item/header__menu__item.css);
 
+/*CONTENT*/
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__heading/content__heading.css);
 @import url(../blocks/content/__button/content__button.css);
 
+/*BULLETS*/
 @import url(../blocks/bullets/bullets.css);
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__text/card__text.css);
 
+/*ABOUT*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__info/about__info.css);
 @import url(../blocks/about/__info/__heading/about__info__heading.css);
 @import url(../blocks/about/__info/__paragraph/about__info__paragraph.css);
 
+/*NUMBERS*/
 @import url(../blocks/numbers/numbers.css);
 @import url(../blocks/numbers/__item/numbers__item.css);
 @import url(../blocks/numbers/__item/__name/numbers__item__name.css);
 @import url(../blocks/numbers/__item/__number/numbers__item__number.css);
 
+/*SECOND-SCREEN*/
 @import url(../blocks/second-screen/second-screen.css);
 
+/*BRANCHES*/
 @import url(../blocks/branches/branches.css);
 @import url(../blocks/branches/__heading/branches__heading.css);
 @import url(../blocks/branches/__map/branches__map.css);
@@ -38,10 +51,12 @@
 @import url(../blocks/branches/__map/__search/branches__map__search.css);
 @import url(../blocks/branches/__map/__search/_input/branches__map__search_input.css);
 
+/*PARTNERSHIP*/
 @import url(../blocks/partnership/partnership.css);
 @import url(../blocks/partnership/__text/partnership__text.css);
 @import url(../blocks/partnership/__button/partnership__button.css);
 
+/*FOOTER*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__menu/__list/footer__menu__list.css);
