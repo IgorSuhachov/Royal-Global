@@ -1,6 +1,7 @@
 .content__button {
 	background-color: #E7AB38;
 	border: none;
+	text-decoration: none;
 	padding: 10px 68px;
 	border-radius: 10px;
 	font-family: 'Montserrat';

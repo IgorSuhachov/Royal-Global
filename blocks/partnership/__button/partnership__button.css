@@ -1,5 +1,8 @@
 .partnership__button {
 	background: #E7AB38;
+	text-decoration: none;
+	color: #050706;
+	cursor: pointer;
 	border-radius: 10px;
 	border: none;
 	padding: 10px 57px;
